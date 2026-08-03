@@ -50,7 +50,7 @@ do projeto — o resto é autocontido.
 
 | Onde | O que está lá | O que colocar |
 |---|---|---|
-| Botão flutuante e rodapé | `wa.me/5500000000000` | número real do WhatsApp |
+| Botão flutuante e rodapé | `wa.me/5554997043135` | número real do WhatsApp |
 | Rodapé | `contato@vorix.com.br` | e-mail real |
 | CTA final | três botões com `href="#"` | links do formulário, agenda e WhatsApp |
 | `<head>` | `https://www.vorix.com.br/` | domínio real (canonical, Open Graph, schema) |
